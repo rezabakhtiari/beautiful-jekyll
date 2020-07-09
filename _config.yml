@@ -7,7 +7,7 @@ title: Reza Bakhtiari
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Dr. Reza Bakhtiari
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://bakhtiari.eu"
 
 # --- Logo --- #
 
@@ -25,11 +25,11 @@ navbar-links:
 avatar: "/assets/img/Bakhtiari.PNG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/Bakhtiari.PNG"
 
 
 # --- Footer options --- #
@@ -39,10 +39,10 @@ round-avatar: false
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "bakhtiari.reza@gmail.com"
-  facebook: deanattali
+  #facebook: deanattali
   github: rezabakhtiari
   twitter: mreza_de
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -59,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: "https://scholar.google.com/citations?user=rcVLVFYAAAAJ&hl=en"
 
 # --- General options --- #
 
