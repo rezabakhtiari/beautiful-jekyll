@@ -39,12 +39,14 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "reza@bakhtiari.eu"
+  linkedin: bakhtiarireza
+  google-scholar: "citations?user=rcVLVFYAAAAJ&hl=en"
   #facebook: deanattali
   github: rezabakhtiari
   twitter: mreza_de
   rss: false
 #  reddit: yourname
-  linkedin: bakhtiarireza
+  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,7 +61,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: "https://scholar.google.com/citations?user=rcVLVFYAAAAJ&hl=en"
+  
 
 # --- General options --- #
 
