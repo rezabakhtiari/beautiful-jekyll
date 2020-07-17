@@ -9,6 +9,10 @@ description: A virtual proof that I'm awesome
 # Your name to show in the footer
 author: Dr. Reza Bakhtiari
 
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: ""
+baseurl: ""
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
