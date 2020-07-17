@@ -10,8 +10,8 @@ description: A virtual proof that I'm awesome
 author: Dr. Reza Bakhtiari
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: ""
-baseurl: ""
+#url: ""
+#baseurl: ""
 
 # --- List of links in the navigation bar --- #
 
