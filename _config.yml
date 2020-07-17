@@ -13,10 +13,13 @@ author: Dr. Reza Bakhtiari
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://bakhtiari.eu"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://bakhtiari.eu"
+  Educations: "Educations"
+  CV: "CV"
+  Personal: "Personal"
 
 # --- Logo --- #
 
