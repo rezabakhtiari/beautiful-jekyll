@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Educations
-subtitle: where did i study?
+subtitle:
 ---
 
 - PhD in Physics (2006): [Scuola Normale Superiore di Pisa (Italy)](https://www.sns.it)
